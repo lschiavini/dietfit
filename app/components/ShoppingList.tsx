@@ -29,12 +29,18 @@ const ShoppingList = () => {
         { id: 'patinho-voce', emoji: '🥩', item: 'Patinho', you: '800g', spouse: '1,1kg', category: 'Proteínas' },
         { id: 'arroz', emoji: '🍚', item: 'Arroz', you: '2,1kg', spouse: '850g', category: 'Carboidratos' },
         { id: 'azeite', emoji: '🫒', item: 'Azeite', you: '300ml', spouse: '-', category: 'Temperos' },
+        { id: 'paprica', emoji: '🌶️', item: 'Páprica Doce', you: '100g', spouse: '-', category: 'Temperos' },
+        { id: 'pimenta', emoji: '🧂', item: 'Pimenta do Reino', you: '100g', spouse: '-', category: 'Temperos' },
+        { id: 'chimi', emoji: '🧂', item: 'Chimi Churri', you: '100g', spouse: '-', category: 'Temperos' },
+        { id: 'sal', emoji: '🧂', item: 'Sal', you: '1kg', spouse: '-', category: 'Temperos' },
+        { id: 'macarrao', emoji: '🍝', item: 'Macarrão', you: '500g', spouse: '-', category: 'Carboidratos' },
         { id: 'feijao', emoji: '🫘', item: 'Feijão', you: '-', spouse: '650g', category: 'Carboidratos' },
         { id: 'legumes', emoji: '🥦', item: 'Legumes Variados', you: '-', spouse: '1kg', category: 'Vegetais' },
         { id: 'laranja', emoji: '🍊', item: 'Laranjas/Kiwis', you: '14 unid', spouse: '-', category: 'Frutas' },
         { id: 'banana', emoji: '🍌', item: 'Bananas', you: '14 unid', spouse: '-', category: 'Frutas' },
         { id: 'maca', emoji: '🍎', item: 'Maçãs', you: '14 unid', spouse: '-', category: 'Frutas' },
         { id: 'uva', emoji: '🍇', item: 'Uvas', you: '700g', spouse: '-', category: 'Frutas' },
+        { id: 'fruta-vermelha', emoji: '🍓', item: 'Frutas Vermelhas Congeladas', you: '2kg', spouse: '-', category: 'Frutas' },
         { id: 'proteina', emoji: '💪', item: 'Proteína de Ervilha', you: '14 scoops', spouse: '-', category: 'Suplementos' }
     ];
 
