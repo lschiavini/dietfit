@@ -98,7 +98,7 @@ const ShoppingList = () => {
             </div>
 
             <div className="bg-white rounded-lg shadow p-6">
-                <h3 className="font-semibold mb-2 flex items-center gap-2">
+                <h3 className="font-semibold text-black mb-2 flex items-center gap-2">
                     <span>🥬</span> Dicas para os Legumes Variados
                 </h3>
                 <ul className="space-y-1 text-gray-600">
