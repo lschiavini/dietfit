@@ -56,7 +56,7 @@ const ShoppingList = () => {
             <div className="bg-white rounded-lg shadow p-6">
                 <div className="flex items-center gap-2 mb-6">
                     <span className="text-2xl">🛒</span>
-                    <h1 className="text-2xl font-bold">Lista de Compras Meal Prep</h1>
+                    <h1 className="text-2xl font-bold text-black">Lista de Compras Meal Prep</h1>
                 </div>
 
                 {categories.map(category => (
@@ -80,7 +80,7 @@ const ShoppingList = () => {
                                         <div className="flex-1">
                                             <label
                                                 htmlFor={id}
-                                                className={`font-medium ${checkedItems[id] ? 'line-through text-gray-400' : ''}`}
+                                                className={`font-medium text-black ${checkedItems[id] ? 'line-through text-gray-400' : ''}`}
                                             >
                                                 {name}
                                             </label>
